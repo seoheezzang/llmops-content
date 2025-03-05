@@ -108,7 +108,7 @@ You will also need:
 8. **Service Principal 권한할당**
 
    ```bash
-   CLIENT_ID="<your-client-id>"
+   CLIENT_ID="4cc876d4-d328-4638-aa5d-3a6541457f6d"
    
    eval $(azd env get-values)
 
